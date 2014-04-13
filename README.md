@@ -5,7 +5,7 @@ Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2014 HiggsBosonCoin Developers
 
 For more information, as well as an immediately useable, binary version of
-the HiggsBosonCoin client sofware, see http://www.higgsbosoncoin.org.
+the HiggsBosonCoin client sofware, see http://www.higgsbosoncoin.com.
 
 License
 -------
